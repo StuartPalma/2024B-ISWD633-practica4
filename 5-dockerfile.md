@@ -58,6 +58,9 @@ No olvides verificar en qué directorio se encuentra el archivo Dockerfile
 
 **¿Cuántos pasos se han ejecutado?**
 # RESPONDER 
+````
+se hicieron de 3 a 4 pasos ejecutables ya que hice una modificacion y ahorra un paso al colocar el update e install juntos
+````
 
 ### Inspeccionar la imagen creada
 # COMPLETAR CON UNA CAPTURA
