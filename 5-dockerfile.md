@@ -64,7 +64,7 @@ se hicieron de 3 a 4 pasos ejecutables ya que hice una modificacion y ahorra un 
 
 ### Inspeccionar la imagen creada
 # COMPLETAR CON UNA CAPTURA
-
+![Imagen](img/index.png)
 **Modificar el archivo index.html para incluir su nombre y luego crear una nueva versión de la imagen anterior**
 **¿Cuántos pasos se han ejecutado? ¿Observa algo diferente en la creación de la imagen**
 
