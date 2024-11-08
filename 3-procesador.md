@@ -9,7 +9,14 @@ Asignar núcleos de CPU específicos:
 --cpuset-cpus=<lista de núcleos>
 ```
 
-**¿Como saber el numero de procesadores virtuales que tiene una máquina?**
+**¿Como saber el numero de procesadores virtuales que tiene una máquina?**\
+````
+puedes averiguar entrando al administrador de tareas de tu computador en rendimiento CPU donde se visualizaran los nucleos o con el siguiente comando
+ dentro de CMD
+wmic cpu get NumberOfLogicalProcessors
+
+
+````
 ## COMPLETAR
 
 ## Ejemplos
